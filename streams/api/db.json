@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream 1",
+      "description": "This is a test stream.",
+      "id": 1
+    },
+    {
+      "title": "My stream 2",
+      "description": "This is a test stream.",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "This is done again after the PATCH request.",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "This is fantastic area.",
+      "userId": "106401672156663602590",
+      "id": 4
+    }
+  ]
+}
